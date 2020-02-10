@@ -16,3 +16,5 @@ Fitur yang harus ada pada aplikasi:
 2.Halaman Detail
   Syarat:
   Menampilkan gambar dan informasi pada halaman detail.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
